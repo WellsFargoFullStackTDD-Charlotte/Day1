@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdventureWorksContext.cs" />
-    <Compile Include="IAdventureWorksContext.cs" />
     <Compile Include="Migrations\201505032132129_Initial.cs" />
     <Compile Include="Migrations\201505032132129_Initial.Designer.cs">
       <DependentUpon>201505032132129_Initial.cs</DependentUpon>

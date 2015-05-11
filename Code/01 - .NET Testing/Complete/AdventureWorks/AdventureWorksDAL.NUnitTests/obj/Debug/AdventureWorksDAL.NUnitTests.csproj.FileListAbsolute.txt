@@ -20,3 +20,14 @@ C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Inst
 C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Instructor\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Instructor\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.dll
 C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Instructor\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.pdb
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.NUnitTests.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.NUnitTests.pdb
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.pdb

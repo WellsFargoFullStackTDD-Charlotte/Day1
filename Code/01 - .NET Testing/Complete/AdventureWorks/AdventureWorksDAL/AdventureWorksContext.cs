@@ -6,7 +6,7 @@ using System.Web;
 
 namespace AdventureWorksDAL
 {
-    public class AdventureWorksContext : DbContext, IAdventureWorksContext
+    public class AdventureWorksContext : DbContext
     {   
         public AdventureWorksContext() : base("name=AdventureWorksContext") {}
 

@@ -17,13 +17,6 @@ namespace AdventureWorksWebAPI.Controllers
     {
         private AdventureWorksContext db = new AdventureWorksContext();
 
-        public ProductsController() { }
-
-        public ProductsController(AdventureWorksContext context)
-        {
-            db = context;
-        }
-
         // GET: api/Products
         public IQueryable<Product> GetProducts()
         {

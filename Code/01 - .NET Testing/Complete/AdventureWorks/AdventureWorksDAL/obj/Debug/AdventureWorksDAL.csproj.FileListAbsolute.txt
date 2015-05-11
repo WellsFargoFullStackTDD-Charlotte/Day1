@@ -22,3 +22,15 @@ C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Inst
 C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Instructor\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.csproj.GenerateResource.Cache
 C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Instructor\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.dll
 C:\Users\Geek\Documents\InstructorProjects\01 - .NET Testing\AdventureWorks-Instructor\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\AdventureWorksDAL.dll.config
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.xml
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.Migrations.Initial.resources
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.csproj.GenerateResource.Cache
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\Documents\GitHub\Day1\Code\01 - .NET Testing\Complete\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.pdb
